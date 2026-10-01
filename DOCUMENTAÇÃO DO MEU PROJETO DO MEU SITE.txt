@@ -1,0 +1,46 @@
+DOCUMENTAÇÃO DO PROJETO DO MEU SITE 
+
+ NOME DO PROJETO
+SITE DE CONSULTORIA EMPRESARIAL ESTOU TERMINANDO 
+
+1.COMEÇO PELA ESTRUTURA HTML 
+TITULO SITE OFICIAL 
+NOME DA PAGINAL OFICIAL 
+
+2.TECNOLOGIAS USADAS 
+HTML 
+CSS
+BUSTRAP 
+
+3 PUBLICO - ALVO 
+O PROJETOFOI DESENVOLVIDO COM FOCO NAS EMPRESAS PARA QUE OS EMPRESARIOS E DIRRETORES POSSA CORRIGI OS ERROS NAS SUAS EMPRESAS 
+
+4. ESTRUTURA DO SITE 
+
+Nome do Site 
+Titulo 
+Menu
+Botão 
+
+5. Organização do arquivo 
+site- Oficial 
+
+index Html 
+css 
+
+style.css 
+6.Responsabividade 
+o projeto foi desenvolvido no recurso
+.html-estrutura 
+.css- estilo layout 
+.bootstrap 
+
+7. Organização do arquivo
+Menu
+Botão 
+Formulário 
+
+8. Melhorias futuras 
+.termina o site 
+.colocar imagens especificas 
+
